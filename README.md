@@ -1,16 +1,13 @@
 ## Hi there 👋
+<div align="center">
+  <h1 align="center">Olá, eu sou um Desenvolvedor 👋</h1>
+  <h3 align="center">estudante</h3>
+</div>
 
-<!--
-**eloapereiranascimento-cmd/eloapereiranascimento-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologias e Ferramentas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,nextjs,webpack&theme=dark" />
+  </a>
+</div>
